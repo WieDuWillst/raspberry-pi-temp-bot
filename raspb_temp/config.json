@@ -1,0 +1,6 @@
+{
+    "testServer": "testing server id", 
+    "clientID": "your discord bot client id",
+    "devs": [""],
+    "channelID": "channel id for the status"
+}
